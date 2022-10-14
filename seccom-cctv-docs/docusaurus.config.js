@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'screensecurity',
   tagline: 'ES Project',
-  url: '',
+  url: 'idk.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -70,6 +70,7 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/project', docId: 'project', label: 'Project', position: 'left'},
+          {to: '/deliverables', docId: 'deliverables', label: 'Deliverables', position: 'left'},
           {to: '/team', docId: 'team', label: 'Team', position: 'left'},
           {to: '/about', docId: 'about', label: 'About', position: 'left'},
           {
