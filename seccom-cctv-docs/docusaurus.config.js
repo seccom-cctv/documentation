@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'screensecurity',
+  title: 'SecCom',
   tagline: 'ES Project',
   url: 'idk.com',
   baseUrl: '/',
@@ -57,21 +57,14 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'screensecurity',
+        title: 'SecCom',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo2.png',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
           {to: '/project', docId: 'project', label: 'Project', position: 'left'},
           {to: '/deliverables', docId: 'deliverables', label: 'Deliverables', position: 'left'},
-          {to: '/team', docId: 'team', label: 'Team', position: 'left'},
           {to: '/about', docId: 'about', label: 'About', position: 'left'},
           {
             href: 'https://github.com/seccom-cctv',
