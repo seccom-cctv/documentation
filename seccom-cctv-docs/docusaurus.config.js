@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'SecCom',
   tagline: 'ES Project',
-  url: 'idk.com',
+  url: 'https://es-01-docusaurus.s3.amazonaws.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
