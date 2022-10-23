@@ -13,7 +13,8 @@ jobs:
             sudo apt install python3-pip
             sudo pip3 install awsebcli --upgrade
             sudo apt install npm
-            sudo npm install -g npm@15.0.0
+            sudo npm install -g npm
+            sudo apt install nodejs
       - run: cd ./seccom-cctv-docs && npm rebuild esbuild && yarn install --ignore-engines && npx docusaurus build
       - persist_to_workspace:
           root: .
