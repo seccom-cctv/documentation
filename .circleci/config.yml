@@ -12,10 +12,7 @@ jobs:
             sudo apt-get update
             sudo apt install python3-pip
             sudo pip3 install awsebcli --upgrade
-            sudo npm cache clean -f
-            sudo npm install -g n
-            sudo n stable
-      - run: cd ./seccom-cctv-docs && yarn install --ignore-engines && yarn build --ignore-engines
+      - run: cd ./seccom-cctv-docs && yarn install --ignore-engines && yarn run build
       - persist_to_workspace:
           root: .
           paths:
