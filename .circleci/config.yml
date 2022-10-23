@@ -12,8 +12,8 @@ jobs:
             sudo apt-get update
             sudo apt install python3-pip
             sudo pip3 install awsebcli --upgrade
-            npm cache clean -f
-            npm install -g n
+            sudo npm cache clean -f
+            sudo npm install -g n
             n stable
       - run: cd ./seccom-cctv-docs && yarn install --ignore-engines && yarn build --ignore-engines
       - persist_to_workspace:
