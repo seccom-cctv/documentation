@@ -16,6 +16,7 @@ jobs:
             curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
             sudo apt install -y nodejs
             sudo apt install build-essential
+            node -v
       - run: cd ./seccom-cctv-docs && yarn install --ignore-engines && yarn run build
       - persist_to_workspace:
           root: .
