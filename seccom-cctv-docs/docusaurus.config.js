@@ -80,7 +80,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © screensecurity`,
+        copyright: `Copyright © SecCom`,
       },
       prism: {
         theme: lightCodeTheme,
