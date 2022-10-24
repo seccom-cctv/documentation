@@ -64,7 +64,12 @@ const config = {
         },
         items: [
           {to: '/project', docId: 'project', label: 'Project', position: 'left'},
-          {to: '/deliverables', docId: 'deliverables', label: 'Deliverables', position: 'left'},
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Deliverables',
+          },
           {to: '/about', docId: 'about', label: 'About', position: 'left'},
           {
             href: 'https://github.com/seccom-cctv',
