@@ -29,10 +29,10 @@ Our main goal will be connect the management site to the backend-api, and deploy
 * [[ECP-45] Creation of a central database that allows the insertion of Companies, Managers, Buildings and Devices which can be accessed by other services.](https://es-project.atlassian.net/browse/ECP-45)
 * [[ECP-63] Push Images to AWS ERC](https://es-project.atlassian.net/browse/ECP-63)
 
-#### Not Complete User-Stories that passed to the next Spring
+#### Not Complete User-Stories that passed to the next Sprint
 * [[ECP-8] As a client i want to choose to receive notifications  via email so that i can quickly get feedback on a break-in](https://es-project.atlassian.net/browse/ECP-8)
 
-#### Not Complete Tasks that passed to the next Spring
+#### Not Complete Tasks that passed to the next Sprint
 * [[ECP-25] Create API Gateway for all the API’s communication.](https://es-project.atlassian.net/browse/ECP-25)
 
 ### Burndown Chart

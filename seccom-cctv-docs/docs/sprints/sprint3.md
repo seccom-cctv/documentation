@@ -13,10 +13,10 @@ As our main goal for this sprint, we want to have the Email Notifications User S
     * [ECP-21] Store and Access Client Preferences
     * [ECP-22] Send Email Notifications
 
-#### Not Complete User-Stories that passed to the next Spring
+#### Not Complete User-Stories that passed to the next Sprint
 * [[ECP-8] As a client i want to choose to receive notifications  via email so that i can quickly get feedback on a break-in](https://es-project.atlassian.net/browse/ECP-8)
 
-#### Not Complete Tasks that passed to the next Spring
+#### Not Complete Tasks that passed to the next Sprint
 * [[ECP-45] Creation of a central database that allows the insertion of Companies, Managers, Buildings and Devices which can be accessed by other services.](https://es-project.atlassian.net/browse/ECP-45)
 
 ### Burndown Chart

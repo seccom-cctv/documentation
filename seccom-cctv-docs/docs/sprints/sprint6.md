@@ -22,12 +22,12 @@ The main goal of this sprint is to complete the core problem of the project. Sav
 
 
 
-#### Not Complete User-Stories that passed to the next Spring
+#### Not Complete User-Stories that passed to the next Sprint
 * [[ECP-24] As a client, I want to have access to a management system so that I can check all events that were triggered in my building.](https://es-project.atlassian.net/browse/ECP-24)
 * [[ECP-84] As a client, I want to be able to see my buildings, so then I can watch my cameras and alarms.](https://es-project.atlassian.net/browse/ECP-84)
 * [[ECP-19] As a client, I want to have access to a management system so that I can obtain data from cameras.](https://es-project.atlassian.net/browse/ECP-19)
 
-#### Not Complete Tasks that passed to the next Spring
+#### Not Complete Tasks that passed to the next Sprint
 * [[ECP-82] Create Production Docker Images](https://es-project.atlassian.net/browse/ECP-82)
 
 ### Burndown Chart
