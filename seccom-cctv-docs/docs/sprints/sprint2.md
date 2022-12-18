@@ -1,10 +1,10 @@
 # Sprint 2
 
 ### Sprint Date
-
 10 October 2022 - 17 October 2022
 
 ### Sprint Goal
+Start the Implementation of the Notifications Module.
 
 ### Sprint User-Stories
 #### Completed Tasks
